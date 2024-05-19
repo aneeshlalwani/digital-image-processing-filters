@@ -1,4 +1,4 @@
-# Image Filter Application
+# Digital Image Processing - Filter Application
 
 This application allows users to upload images and apply various filters, such as Gaussian Lowpass, \
 Butterworth Lowpass, Laplacian Highpass, and Histogram Matching. The processed image is \
